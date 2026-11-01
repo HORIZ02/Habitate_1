@@ -1,0 +1,23 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+scikit-survival
+lifelines
+# Imaging / radiomics
+nibabel
+scikit-image
+SimpleITK
+pyradiomics
+# Plotting
+matplotlib
+matplotlib-venn
+# Documents / reports
+python-docx
+reportlab
+Pillow
+lxml
+pypdf
+# Explainability
+shap
